@@ -10,6 +10,9 @@ ciencia-e-engenharia-de-dados
  | arquivos-de-apresentacoes
  |    | Livros
  |        | Python For Data Analysis
+ |            | Cap. 2 - Python Fundamentals
+ |            | Cap. 5 e 6 - Pandas Fundamentals
+                ...
  | documentos
  |    | Livros
 ```
