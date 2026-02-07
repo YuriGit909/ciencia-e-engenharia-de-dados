@@ -13,8 +13,8 @@ ciencia-e-engenharia-de-dados
  |            | Cap. 2 - Python Fundamentals
  |            | Cap. 5 e 6 - Pandas Fundamentals
                 ...
- | documentos
- |    | Livros
+ | projetos
+ |    dashboard-dados-suic
 ```
 
 ## Como executar
